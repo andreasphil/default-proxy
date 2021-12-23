@@ -1,0 +1,18 @@
+{
+  "name": "default-proxy",
+  "version": "1.0.0",
+  "description": "A proxy that prevents properties from ever becoming undefined",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "deno test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasphil/default-proxy.git"
+  },
+  "author": "Andreas Philippi",
+  "bugs": {
+    "url": "https://github.com/andreasphil/default-proxy/issues"
+  },
+  "homepage": "https://github.com/andreasphil/default-proxy#readme"
+}
